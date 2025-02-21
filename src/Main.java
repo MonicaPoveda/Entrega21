@@ -3,5 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("mi primer linea de texto");
+        System.out.println("linea creada en la rama2 para subir a main");
     }
 }
